@@ -1,7 +1,7 @@
 # EECS341_Project
 Final Project for EECS 341 (Introduction to Databases) at Case Western Reserve University
 
-- James Anibal (jta54@case.edu)
+- James Anibal
 - Daniel Le
 - Mia Gorczyca
 - Alec Peltekian
